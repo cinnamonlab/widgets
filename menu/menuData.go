@@ -50,7 +50,8 @@ func GetItems1() []Item {
 }
 func GetItems() []Item {
 	var items []Item
-	raw, err := ioutil.ReadFile("./widgets/menu/items.json")
+	//raw, err := ioutil.ReadFile("./widgets/menu/items.json")
+	raw, err := ioutil.ReadFile("./adminmenus.json")
 	if err != nil {
 		fmt.Println(err.Error())
 		os.Exit(1)
