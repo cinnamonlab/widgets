@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "parent_id": 0,
+    "name": "Cohort Analysis",
+    "url": "/test/1",
+    "html_class": "",
+    "icon": "area-chart"
+  },
+  {
+    "id": 2,
+    "parent_id": 0,
+    "name": "DashBoard",
+    "url": "/test/2",
+    "html_class": "",
+    "icon": "pie-chart"
+  },
+  {
+    "id": 3,
+    "parent_id": 0,
+    "name": "System Questions",
+    "url": "/test/3",
+    "html_class": "",
+    "icon": "question text-yellow"
+  },
+  {
+    "id": 4,
+    "parent_id": 2,
+    "name": "Answer Received Per DAU",
+    "url": "/test/1.1",
+    "html_class": "",
+    "icon": "line-chart"
+  },
+  {
+    "id": 5,
+    "parent_id": 2,
+    "name": "DAU/MAU",
+    "url": "/test/1.2",
+    "html_class": "",
+    "icon": "line-chart"
+  },
+  {
+    "id": 6,
+    "parent_id": 0,
+    "name": "Consoles",
+    "url": "/test/4",
+    "html_class": "",
+    "icon": "terminal text-red"
+  }
+]
